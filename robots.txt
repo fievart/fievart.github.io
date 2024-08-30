@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://fievart.github.io/sitemap.html.gz
+Sitemap: https://fievart.github.io/app/sitemap.html.gz
+Sitemap: https://fievart.github.io/assets/sitemap.html.gz
+Sitemap: https://fievart.github.io/css/sitemap.html.gz
+Sitemap: https://fievart.github.io/includes/sitemap.html.gz
+Sitemap: https://fievart.github.io/item/sitemap.html.gz
+Sitemap: https://fievart.github.io/src/sitemap.html.gz
